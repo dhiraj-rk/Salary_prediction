@@ -1,0 +1,23 @@
+# Virtual Environment
+salary_venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local configuration
+.env
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
+
+# System-specific files
+.DS_Store
+Thumbs.db
